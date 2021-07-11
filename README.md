@@ -1,3 +1,3 @@
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+  <img src="file:///home/standy-linux/%C3%81rea%20de%20Trabalho/1-13123_deltarune-ralsei-pixel-art.gif)" width="27px">
 </p>
